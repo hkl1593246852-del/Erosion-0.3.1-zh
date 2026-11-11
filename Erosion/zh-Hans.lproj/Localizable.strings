@@ -255,3 +255,10 @@
 "By showing tweaks that are intentionally hidden on your specific device configuration, you may be able to enable features that could break your device or lead to data loss!" = "显示这些在你设备配置上被刻意隐藏的调整，可能开启会损坏设备或导致数据丢失的功能！";
 "Warning!" = "警告！";
 "Use at your own risk." = "风险自负。";
+"If you're using this tweak and your device is already MDM-configured, do NOT touch this toggle! Also, and this goes for all users, you may see a setup screen after respringing. Use at your own risk." = "如果你的设备已经由 MDM 配置，请不要碰这个开关！另外对所有用户都一样：注销重启后可能会看到系统设置引导页。风险自负。";
+"By clicking \"Confirm\", your footnote will be removed and your device will be unsupervised." = "点击「确认」后，你的脚注会被移除，设备将回到未监管状态。";
+"Restart the app and try again. If this issue persists, your device may be unsupported, or this specific tweak may not work on your device properly." = "重启应用后再试。如果问题依旧，可能是你的设备不受支持，或这个调整在你的设备上无法正常工作。";
+"Respring your device for changes to take effect." = "注销重启设备后更改才会生效。";
+"We're sorry, but the exploits that Erosion rely on are patched in this version. Please exit the app." = "抱歉，Erosion 依赖的漏洞在这个版本上已被修复。请退出应用。";
+"Supervision Warning!" = "监管警告！";
+"Successfully reset config tweaks!" = "配置调整已重置！";
