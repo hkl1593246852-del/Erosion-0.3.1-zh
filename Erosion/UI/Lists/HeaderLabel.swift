@@ -21,13 +21,13 @@ struct HeaderLabel: View {
             HStack(spacing: 10) {
                 Image(systemName: symbol)
                     .frame(width: 22, alignment: .center)
-                Text(LocalizedStringKey(label))
+                Text(NSLocalizedString(label, comment: ""))
             }
         } else {
             HStack(spacing: 8) {
                 Image(systemName: symbol)
                     .frame(width: 18, alignment: .center)
-                Text(LocalizedStringKey(label))
+                Text(NSLocalizedString(label, comment: ""))
             }
         }
     }

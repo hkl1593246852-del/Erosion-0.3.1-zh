@@ -35,7 +35,7 @@ struct ButtonLabel: View {
                         .frame(width: 22, height: 22, alignment: .center)
                 }
             }
-            Text(LocalizedStringKey(text))
+            Text(NSLocalizedString(text, comment: ""))
         }
         .font(.body.weight(.medium))
     }

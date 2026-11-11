@@ -21,7 +21,7 @@ struct ToolbarLabel: View {
             Label(label, systemImage: symbol)
                 .labelStyle(.iconOnly)
         } else {
-            Text(LocalizedStringKey(label))
+            Text(NSLocalizedString(label, comment: ""))
         }
     }
 }
