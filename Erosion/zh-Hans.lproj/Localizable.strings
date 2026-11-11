@@ -70,7 +70,7 @@
 "Enable Internal Build" = "启用内部版本";
 "Enable Internal Install" = "启用内部安装";
 "Enable iPadOS UI" = "启用 iPadOS 界面";
-"Enable SRD UI" = "启用 SRD 界面";
+"Enable SRD UI" = "启用研究设备界面";
 "Enable Stage Manager" = "启用台前调度";
 "Enable Supervision" = "启用监管";
 "Ensure that you've selected a vaild wallpaper file and try again." = "请确认选择的是有效的壁纸文件后重试。";
@@ -241,3 +241,17 @@
 "Success!" = "成功";
 "Error" = "错误";
 "Warning" = "警告";
+"Enabling this tweak may break regional laws! You could face legal action from your local jurisdiction. Use at your own risk." = "启用此调整可能违反当地法规！你所在辖区的执法机构可能会找上你。风险自负。";
+"If you're using an alphanumeric passcode, do not use this tweak at all. Do not turn off \"Show Dock In Stage Manager\" or your device will get softbricked. When this tweak is enabled, expect general instability, unusable apps, and broken device features." = "如果你用的是字母数字密码，请不要使用此调整。不要关闭「在台前调度中显示程序坞」，否则设备会变砖。开启后可能出现系统不稳定、应用无法使用、功能损坏。";
+"Do not ask us for support if a tweak does not work properly. Many of these tweaks are dependent on your device or Apple's servers cooperating. Use all of these tweaks at your own risk." = "调整不生效时不要向我们求助。很多调整依赖你的设备或苹果服务器配合。所有调整风险自负。";
+"Resetting MobileGestalt involves deleting the original cache. This'll help you remove tweaks that aren't reverting, but there is a rare chance that your device will get softbricked." = "重置 MobileGestalt 会删除原始缓存。这能帮你清掉无法还原的调整，但有小概率让设备变砖。";
+"This will enable some internal features that were meant for Apple Internal use but were left in production iOS. This tweak may break some device functionality, including installing system apps from the App Store." = "这会开启一些原本只给 Apple 内部使用、但残留在正式版 iOS 里的内部功能。此调整可能导致部分设备功能失效，包括从 App Store 安装系统应用。";
+"This toggle primarily adds internal storage info in the Settings application. This tweak may cause issues, especially on iPadOS." = "这个开关主要是在「设置」里加上内部存储信息。可能引发问题，尤其在 iPadOS 上。";
+"Spoofing your device model may break Face ID as well as other features. This tweak won't be of any value to you as your device already supports Apple Intelligence." = "伪装设备型号可能导致 Face ID 和其他功能失效。你的设备本来就支持 Apple 智能，这个调整对你没有价值。";
+"This tweak does not enable the new Siri AI features. To download AI models, you'll need to spoof your device. Spoofing your device model may break Face ID as well as other features. If you unspoof, do not go back into the Siri section inside of Settings." = "这个调整不会开启新的 Siri AI 功能。要下载 AI 模型，你需要伪装设备。伪装设备型号可能导致 Face ID 和其他功能失效。取消伪装后，不要再进入「设置」里的 Siri 部分。";
+"Only change your subtype if you'd like to move the Dynamic Island down to a lower position. Enable the Dynamic Island using the toggle further down this page!" = "只有想把灵动岛下移到更低位置时才需要改子类型。用页面下方的开关启用灵动岛！";
+"To complete the reset, you'll need to reboot your iPhone. Please do this now." = "要完成重置，需要重启 iPhone。请现在重启。";
+"Before you save MobileGestalt, remove all tweaks so that they don't get re-applied if you ever want to reset your actual gestalt again." = "保存 MobileGestalt 之前，请先移除所有调整，以免将来想恢复真实 gestalt 时它们又被重新应用。";
+"By showing tweaks that are intentionally hidden on your specific device configuration, you may be able to enable features that could break your device or lead to data loss!" = "显示这些在你设备配置上被刻意隐藏的调整，可能开启会损坏设备或导致数据丢失的功能！";
+"Warning!" = "警告！";
+"Use at your own risk." = "风险自负。";
